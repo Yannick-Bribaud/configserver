@@ -9,7 +9,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3310/establishment_db
     username: "root"
-    password: "{cipher}f6cdd483e7ddbe25f3d03904951c3417867da48b17e6b94895de28fdc011313a"
+    password: "f6cdd483e7ddbe25f3d03904951c3417867da48b17e6b94895de28fdc011313a"
   jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
