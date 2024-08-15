@@ -5,7 +5,7 @@ server:
 
 spring:
   application:
-    name: establishment
+    name: establishments
   datasource:
     url: jdbc:mysql://localhost:3310/establishment_db
     username: "root"
