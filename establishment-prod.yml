@@ -1,7 +1,5 @@
 server:
   port: 7001
-  servlet:
-    context-path: /establishment
 
 spring:
   application:
