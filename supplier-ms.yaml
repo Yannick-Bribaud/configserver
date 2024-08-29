@@ -9,3 +9,7 @@ eureka:
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:8015/eureka/
+
+
+common:
+  currencies: XAF, XOF, EUR, USD
